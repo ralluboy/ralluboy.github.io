@@ -1,0 +1,144 @@
+patent_list:
+- id: US-11099937-B2
+  link: https://patents.google.com/patent/US11099937B2/en
+  title: 'Implementing clone snapshots in a distributed storage system '
+- id: US-2020310915-A1
+  link: https://patents.google.com/patent/US20200310915A1/en
+  title: 'Orchestration of Heterogeneous Multi-Role Applications '
+- id: US-10846137-B2
+  link: https://patents.google.com/patent/US10846137B2/en
+  title: 'Dynamic adjustment of application resources in a distributed computing system '
+- id: US-10579364-B2
+  link: https://patents.google.com/patent/US10579364B2/en
+  title: 'Upgrading bundled applications in a distributed computing system '
+- id: US-11113158-B2
+  link: https://patents.google.com/patent/US11113158B2/en
+  title: 'Rolling back kubernetes applications '
+- id: US-2021064442-A1
+  link: https://patents.google.com/patent/US20210064442A1/en
+  title: 'Implementing An Application Manifest In A Node-Specific Manner Using An
+    Intent-Based Orchestrator '
+- id: US-10642694-B2
+  link: https://patents.google.com/patent/US10642694B2/en
+  title: 'Monitoring containers in a distributed computing system '
+- id: US-10896102-B2
+  link: https://patents.google.com/patent/US10896102B2/en
+  title: 'Implementing secure communication in a distributed computing system '
+- id: US-2019213085-A1
+  link: https://patents.google.com/patent/US20190213085A1/en
+  title: 'Implementing Fault Domain And Latency Requirements In A Virtualized Distributed
+    Storage System '
+- id: US-11392363-B2
+  link: https://patents.google.com/patent/US11392363B2/en
+  title: 'Implementing application entrypoints with containers of a bundled application '
+- id: US-2021406079-A1
+  link: https://patents.google.com/patent/US20210406079A1/en
+  title: 'Persistent Non-Homogeneous Worker Pools '
+- id: US-11347684-B2
+  link: https://patents.google.com/patent/US11347684B2/en
+  title: 'Rolling back KUBERNETES applications including custom resources '
+- id: US-10628235-B2
+  link: https://patents.google.com/patent/US10628235B2/en
+  title: 'Accessing log files of a distributed computing system using a simulated
+    file system '
+- id: US-11528186-B2
+  link: https://patents.google.com/patent/US11528186B2/en
+  title: 'Automated initialization of bare metal servers '
+- id: US-10599622-B2
+  link: https://patents.google.com/patent/US10599622B2/en
+  title: 'Implementing storage volumes over multiple tiers '
+- id: US-2019213086-A1
+  link: https://patents.google.com/patent/US20190213086A1/en
+  title: 'Implementing Containers For A Stateful Application In A Distributed Computing
+    System '
+- id: US-10817380-B2
+  link: https://patents.google.com/patent/US10817380B2/en
+  title: 'Implementing affinity and anti-affinity constraints in a bundled application '
+- id: US-2024333704-A1
+  link: https://patents.google.com/patent/US20240333704A1/en
+  title: 'Agentless gitops and custom resources for application orchestration and
+    management '
+- id: US-11108638-B1
+  link: https://patents.google.com/patent/US11108638B1/en
+  title: 'Health monitoring of automatically deployed and managed network pipelines '
+- id: US-10845997-B2
+  link: https://patents.google.com/patent/US10845997B2/en
+  title: 'Job manager for deploying a bundled application '
+- id: US-11582168-B2
+  link: https://patents.google.com/patent/US11582168B2/en
+  title: 'Fenced clone applications '
+- id: US-11748203-B2
+  link: https://patents.google.com/patent/US11748203B2/en
+  title: 'Multi-role application orchestration in a distributed storage system '
+- id: WO-2024123328-A1
+  link: https://patents.google.com/patent/WO2024123328A1/en
+  title: 'Zero touch provisioning of bare metal servers with radio access network
+    software '
+- id: US-2021373868-A1
+  link: https://patents.google.com/patent/US20210373868A1/en
+  title: 'Automated Deployment And Management Of Network Intensive Applications '
+- id: US-2024330069-A1
+  link: https://patents.google.com/patent/US20240330069A1/en
+  title: 'Agentless gitops and custom resources for infrastructure orchestration and
+    management '
+- id: WO-2024118056-A1
+  link: https://patents.google.com/patent/WO2024118056A1/en
+  title: 'Cloud initiated bare metal as a service for on-premises servers '
+- id: WO-2024123338-A1
+  link: https://patents.google.com/patent/WO2024123338A1/en
+  title: 'Application provisioning with active and available inventory '
+- id: WO-2024136837-A1
+  link: https://patents.google.com/patent/WO2024136837A1/en
+  title: 'Optimizing resource scaling '
+- id: WO-2024129100-A1
+  link: https://patents.google.com/patent/WO2024129100A1/en
+  title: 'Optimizing processor unit frequency '
+- id: WO-2024118055-A1
+  link: https://patents.google.com/patent/WO2024118055A1/en
+  title: 'Disk image dump for configuring bare metal servers '
+- id: WO-2024129098-A1
+  link: https://patents.google.com/patent/WO2024129098A1/en
+  title: 'Implementing an infrastructure management service '
+- id: WO-2024129065-A1
+  link: https://patents.google.com/patent/WO2024129065A1/en
+  title: 'Agentless topology analysis '
+- id: WO-2024151307-A1
+  link: https://patents.google.com/patent/WO2024151307A1/en
+  title: 'Provisioning tasks across a plurality of clusters based on priority and
+    geographic proximity '
+- id: US-12254182-B2
+  link: https://patents.google.com/patent/US12254182B2/en
+  title: 'Storage and access of array objects '
+- id: WO-2024123306-A1
+  link: https://patents.google.com/patent/WO2024123306A1/en
+  title: 'Agentless generation of a topology of components in a distributed computing
+    system '
+- id: WO-2024129095-A1
+  link: https://patents.google.com/patent/WO2024129095A1/en
+  title: 'Application redeployment using active and available inventory '
+- id: WO-2024118045-A1
+  link: https://patents.google.com/patent/WO2024118045A1/en
+  title: 'Continuous container utilization system and method '
+- id: WO-2024123305-A1
+  link: https://patents.google.com/patent/WO2024123305A1/en
+  title: 'Agentless active and available inventory discovery '
+- id: US-2021073062-A1
+  link: https://patents.google.com/patent/US20210073062A1/en
+  title: 'Performing Root Cause Analysis in a Multi-Role Application '
+- id: WO-2024136852-A1
+  link: https://patents.google.com/patent/WO2024136852A1/en
+  title: 'Network service stitching for cloud native network functions and virtual
+    network functions '
+- id: WO-2024123307-A1
+  link: https://patents.google.com/patent/WO2024123307A1/en
+  title: 'Implementing a topology lock for a plurality of dynamically deployed components '
+- id: WO-2024136838-A1
+  link: https://patents.google.com/patent/WO2024136838A1/en
+  title: 'Predictively addressing hardware component failures '
+- id: WO-2024129097-A1
+  link: https://patents.google.com/patent/WO2024129097A1/en
+  title: 'Cluster consolidation using active and available inventory '
+- id: WO-2024129066-A1
+  link: https://patents.google.com/patent/WO2024129066A1/en
+  title: 'Application deployment based on image fingerprint '
+
