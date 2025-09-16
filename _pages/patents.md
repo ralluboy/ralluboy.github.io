@@ -13,3 +13,4 @@ nav_order: 1
     <a class="past-title" href={{patent['link']}}>{{patent['id']}} {{patent['title']}}</a>
   {% endfor %}
 </div>
+{% endif %}
