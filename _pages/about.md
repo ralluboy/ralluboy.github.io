@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -15,8 +15,11 @@ latest_posts: true  # includes a list of the newest posts
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a hands-on technologist, architect, and product builder with over two decades of experience in distributed systems, storage platforms, and cloud infrastructure. Throughout my career — from Architect to Director of Engineering to VP of Engineering — I’ve stayed deeply involved in coding, design, and bringing new, cutting-edge products to life.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+At Robin.io, I designed and led the development of multiple cornerstone systems, including the Container Orchestration Platform ([CNP](https://cloud.rakuten.com/products/cloud-native-platform)), the Kubernetes controller and orchestration layer for Cloud Native Storage ([CNS](https://cloud.rakuten.com/products/cloud-native-storage)), and [CNO](https://cloud.rakuten.com/products/cloud-native-orchestrator) (also known as MDCAP) — a metal-to-service orchestration framework that manages the complete lifecycle from bare-metal servers to deployed services. These innovations played a key role in Robin.io’s technology differentiation and ultimately contributed to its successful acquisition by Rakuten.
+
+Currently, I am focused on AI systems and intelligent agents, building platforms that manage the complete lifecycle of AI hardware, applications, and agent ecosystems. I enjoy prototyping and exploring the intersection of distributed systems, orchestration, and AI infrastructure.
+
+My leadership philosophy centers on motivation and empowerment — guiding teams through inspiration, technical depth, and shared ownership. I thrive where architecture meets execution, transforming ambitious ideas into scalable, production-ready platforms that push the boundaries of what’s possible.
